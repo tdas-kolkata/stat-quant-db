@@ -14,4 +14,3 @@ create table daily_price(
 insert into public.daily_price(bus_day,symbol,p_open,p_high,p_low,p_close)
 values
 ('05-08-2021','ITC.BO',3205,3250,3100.2,3225.5);
-;
